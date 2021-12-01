@@ -1,5 +1,7 @@
+#Enter bot token here, 
+token_here = []
 
-
+#Enter desire prefixes here
 prefixes = ["Mirai","mirai","-"]
 
 #REACTIONS (reaction are exclusively available on the bot to avoid replication)
