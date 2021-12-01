@@ -27,8 +27,6 @@ Alternatively, you can use the [GitHub Desktop Client](https://desktop.github.co
 
 You can also download the repository as a ZIP or TAR file.
 
-If you're on Linux and you want to be able to easily clone and update BlazeBot, you can use [this script](https://gist.github.com/iCrazyBlaze/c2e4413ba4700083355833100d262d10) which will remove the `BlazeBot` directory if it exists (otherwise it will just say "directory not found") before using the `git clone` command to download the code. This has proved really useful for me when I'm using multiple machines.
-
 To run the script on Windows with [Git Bash](https://git-scm.com/downloads), delete `sudo` from the first line and it should run.
 
 # Setting up and config
