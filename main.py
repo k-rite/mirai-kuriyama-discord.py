@@ -58,6 +58,7 @@ async def on_ready():
 
 #some alignment for replit
 keep_alive() # calls the keep alive function.
-Token = os.environ['.env'] 
-#If you dont want to setup env file or on safe network then jus remove "os.environ" line and add bot token in Bot.run("token_here")
-Bot.run(Token)
+#Token = os.environ['.env'] 
+#prefer to use .env for tokens.
+#If you want to setup env file or on safe network then jus add "os.environ" in Bot.run() else add bot token in Bot.run("token_here")
+Bot.run(config.token_here)
