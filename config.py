@@ -4,7 +4,7 @@ token_here = []
 #Enter desire prefixes here
 prefixes = ["Mirai","mirai","-"]
 
-#REACTIONS (reaction are exclusively available on the bot to avoid replication)
+#REACTIONS (reaction gifs are exclusively available on the bot)
 sorrygif = []
 susgifs = []
 bruhgifs = []
