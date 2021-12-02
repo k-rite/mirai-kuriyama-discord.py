@@ -20,7 +20,7 @@ python -m pip install discord
 # Downloading the source code
 To download with Git, type this command into a terminal:
 ```
-git clone k-rite/mirai-kuriyama-discord.py 
+git clone k-rite/mirai-kuriyama-discord.py/
 ```
 Alternatively, you can use the [GitHub Desktop Client](https://desktop.github.com/) to download it.
 
