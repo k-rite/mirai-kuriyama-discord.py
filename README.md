@@ -26,7 +26,7 @@ Alternatively, you can use the [GitHub Desktop Client](https://desktop.github.co
 
 You can also download the repository as a ZIP or TAR file.
 
-To run the script on Windows with [Git Bash](https://git-scm.com/downloads), delete `sudo` from the first line and it should run.
+To run the script on Windows with [Git Bash](https://git-scm.com/downloads).
 
 # Setting up and config
 MIrai comes with a `config.py` file. Here you will add your Discord App token, and add startup extensions. You can generate a token at *https://discordapp.com/developers/applications/me.*
